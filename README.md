@@ -3,7 +3,7 @@
 # 6-DOF Robotic Arm for Surgical Applications
 
 **MSc Robotics and Autonomous Systems — Aston University (2025)**
-
+![Robotic Arm](Arm.jpg)
 A fully functional 6-degree-of-freedom robotic arm designed for surgical precision environments, achieving sub-millimetre positional repeatability. Built as my MSc capstone project — the arm works and moves.
 
 ---
