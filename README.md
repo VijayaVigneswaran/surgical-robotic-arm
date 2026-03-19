@@ -44,6 +44,14 @@ ROS2 manages communication between the motion planner and the hardware. Nodes pu
 Arduino receives joint angle commands and drives the servo motors to the correct positions in real time.
 
 ---
+## Code
+
+| File | Description |
+|------|-------------|
+| `potentiometer_control.ino` | Arduino code — wired control via 6 potentiometers |
+| `bluetooth_control.ino` | Arduino code — wireless Bluetooth control via Android app |
+
+Both files are fully commented and ready to run on Arduino Mega with PCA9685 servo driver.
 
 ## Project Status
 
